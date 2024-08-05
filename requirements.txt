@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+fastapi
+uvicorn
+pydantic
+pandas
+requests
+httpx
